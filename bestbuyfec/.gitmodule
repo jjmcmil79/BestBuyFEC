@@ -1,0 +1,3 @@
+[submodule "header-search-footer"]
+	path = /header-search-footer
+	url = https://github.com/BestBuyFEC/header-search-footer.git
