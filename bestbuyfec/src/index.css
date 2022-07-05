@@ -14,6 +14,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+a{
+  color: #0457c8;
+}
+
+#header{
+  width: 100% !important;
+}
 
 #reviews{
   display: flex;
@@ -28,5 +35,27 @@ code {
 #footer{
   display: flex;
   flex-direction: column;
+  /* justify-content: center; */
+}
+
+#Pricing-Cart-Gallery{
+  display: flex;
   justify-content: center;
+}
+
+#alsoviewed{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 120px;
+}
+
+#specifications{
+  display: flex;
+  justify-content: center;
+}
+
+#questions_answers{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
 }
